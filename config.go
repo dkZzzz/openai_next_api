@@ -11,7 +11,7 @@ const (
 )
 
 const (
-	openaiAPIURLv1                 = "https://api.nextweb.fun/openai/v1"
+	openaiAPIURLv1                 = "https://api.nextapi.fun/openai/v1"
 	defaultEmptyMessagesLimit uint = 300
 
 	azureAPIPrefix         = "openai"
